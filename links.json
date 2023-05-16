@@ -1,0 +1,47 @@
+[
+    {
+        "id": "title_generator",
+        "tags": [
+            "minecraft",
+            "models",
+            "3d"
+        ],
+        "title": "Minecraft Title Generator",
+        "author": "Even Howell",
+        "description": "Make official-looking Minecraft logos using this simple tool.",
+        "link": "https://github.com/ewanhowell5195/blockbenchPlugins/blob/main/minecraft_title_generator.js"
+    },
+    {
+        "id": "mcassets",
+        "tags": [
+            "minecraft",
+            "resourcepacks"
+        ],
+        "title": "mcassets",
+        "author": "matdoesdev",
+        "description": "Download all of the Minecraft textures and assets.",
+        "link": "https://mcassets.matdoes.dev/versions"
+    },
+    {
+        "id": "rgbirdflop",
+        "tags": [
+            "minecraft",
+            "servers"
+        ],
+        "title": "RGBirdflop",
+        "author": "Birdflop Hosting",
+        "description": "Make cool gradient texts for Minecraft.",
+        "link": "https://rgb.birdflop.com/"
+    },
+    {
+        "id": "discordicons",
+        "tags": [
+            "discord",
+            "admin"
+        ],
+        "title": "DiscoTools",
+        "author": "Enzo",
+        "description": "Make role icons for your Discord server",
+        "link": "https://discordicon.com"
+    }
+]
